@@ -38,7 +38,7 @@ namespace Jsreporter
                 },
                 data = new
                 {
-                    greetings = ".NET embedded jsreport"
+                    greetings = ".NET embedded jsreport. Simple Report"
                 }
             });
 
