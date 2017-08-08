@@ -1,44 +1,10 @@
 D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\jsreport.zip
 D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\app\prod.config.json
-D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\reports\data\Sample data\config.json
-D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\reports\data\Sample data\dataJson.json
-D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\reports\templates\Sample report\config.json
-D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\reports\templates\Sample report\content.handlebars
-D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\reports\templates\Sample report\footer.handlebars
-D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\reports\templates\Sample report\header.handlebars
 D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\app\server.js
-D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\reports\templates\Sample report\helpers.js
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\csc.exe
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\csc.exe.config
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\csc.rsp
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\csi.exe
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\csi.rsp
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\System.AppContext.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\System.Collections.Immutable.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\System.IO.FileSystem.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\System.Reflection.Metadata.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\vbc.exe
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\vbc.exe.config
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\vbc.rsp
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\VBCSCompiler.exe
-D:\jsrep\Jsreporter\Jsreporter\bin\roslyn\VBCSCompiler.exe.config
 D:\jsrep\Jsreporter\Jsreporter\bin\Jsreporter.dll.config
 D:\jsrep\Jsreporter\Jsreporter\bin\Jsreporter.dll
 D:\jsrep\Jsreporter\Jsreporter\bin\Jsreporter.pdb
 D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Client.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Embedded.dll
 D:\jsrep\Jsreporter\Jsreporter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\jsrep\Jsreporter\Jsreporter\bin\Microsoft.Threading.Tasks.dll
 D:\jsrep\Jsreporter\Jsreporter\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
@@ -46,8 +12,6 @@ D:\jsrep\Jsreporter\Jsreporter\bin\Microsoft.Threading.Tasks.Extensions.dll
 D:\jsrep\Jsreporter\Jsreporter\bin\Newtonsoft.Json.dll
 D:\jsrep\Jsreporter\Jsreporter\bin\System.Net.Http.Extensions.dll
 D:\jsrep\Jsreporter\Jsreporter\bin\System.Net.Http.Primitives.dll
-D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Client.xml
-D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Embedded.xml
 D:\jsrep\Jsreporter\Jsreporter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\jsrep\Jsreporter\Jsreporter\bin\Microsoft.Threading.Tasks.xml
 D:\jsrep\Jsreporter\Jsreporter\bin\Microsoft.Threading.Tasks.Extensions.xml
@@ -59,3 +23,12 @@ D:\jsrep\Jsreporter\Jsreporter\obj\Debug\Jsreporter.csproj.App.config
 D:\jsrep\Jsreporter\Jsreporter\obj\Debug\Jsreporter.csprojResolveAssemblyReference.cache
 D:\jsrep\Jsreporter\Jsreporter\obj\Debug\Jsreporter.dll
 D:\jsrep\Jsreporter\Jsreporter\obj\Debug\Jsreporter.pdb
+D:\jsrep\Jsreporter\Jsreporter\bin\jsreport\production\jsreport.zip
+D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Binary.dll
+D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Local.dll
+D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Shared.dll
+D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Types.dll
+D:\jsrep\Jsreporter\Jsreporter\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Local.xml
+D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Shared.xml
+D:\jsrep\Jsreporter\Jsreporter\bin\jsreport.Types.xml
