@@ -105,6 +105,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Basic.aspx" />
     <Content Include="packages.config" />
     <None Include=".bin\git.cmd" />
     <None Include=".bin\node.cmd" />
@@ -138,6 +139,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Basic.aspx.cs">
+      <DependentUpon>Basic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Basic.aspx.designer.cs">
+      <DependentUpon>Basic.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Deafult.aspx.cs">
       <DependentUpon>Deafult.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
